@@ -1,2 +1,2 @@
 # mysite
-Django project tutorial
+< Django project tutorial >
